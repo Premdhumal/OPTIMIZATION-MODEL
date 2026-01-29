@@ -1,4 +1,4 @@
-# OPTIMIZATION-MODEL
+# OPTIMIZATION-MODEL (TASK 4)
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,21 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-OUTPUT: 
+OUTPUT:
+## Output Screenshots
+
+### Business Problem
+![Problem](result1.png)
+
+### Mathematical Formulation
+![Math](result2.png)
+
+### Optimization Code
+![Code](result3.png)
+
+### Optimization Result
+![Result](result4.png)
+
 #DESCRIPTION: 
 
 In this task, I solved a real-world business problem using optimization techniques. The main objective of this task was to understand how mathematical optimization can help businesses make better decisions when resources are limited. Linear programming is commonly used in industries to maximize profit or minimize cost while working under different constraints.
